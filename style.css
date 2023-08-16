@@ -1,0 +1,9 @@
+body{
+  background:#007AFF;
+}
+
+::placeholder{
+  padding-left: 88px;
+  opacity: 50%;
+
+}
